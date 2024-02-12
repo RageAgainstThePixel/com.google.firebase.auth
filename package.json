@@ -1,9 +1,8 @@
 {
-  "description": "Easily sign-in and authenticate players.\n\nSign-in players using any identity provider with Firebase Authentication. It supports email and password, phone authentication, Facebook, Google, Twitter, and more. Out-of-the-box, you get a secure, end-to-end identity solution.", 
-  "version": "7.0.1", 
-  "displayName": "Firebase Authentication", 
+  "unity": "2017.1", 
+  "version": "7.0.2", 
   "dependencies": {
-    "com.google.firebase.app": "7.0.1"
+    "com.google.firebase.app": "7.0.2"
   }, 
   "name": "com.google.firebase.auth", 
   "keywords": [
@@ -15,7 +14,8 @@
     "vh-name:FirebaseAuth", 
     "vh-name:Firebase Authentication"
   ], 
-  "unity": "2017.1", 
+  "description": "Easily sign-in and authenticate players.\n\nSign-in players using any identity provider with Firebase Authentication. It supports email and password, phone authentication, Facebook, Google, Twitter, and more. Out-of-the-box, you get a secure, end-to-end identity solution.", 
+  "displayName": "Firebase Authentication", 
   "author": {
     "name": "Google LLC", 
     "url": "https://firebase.google.com/docs/auth/unity/start"
