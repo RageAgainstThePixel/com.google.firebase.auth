@@ -1,6 +1,6 @@
 {
   "name": "com.google.firebase.auth",
-  "version": "7.2.0",
+  "version": "8.0.0",
   "displayName": "Firebase Authentication",
   "keywords": [
     "Google",
@@ -18,6 +18,6 @@
   "description": "Easily sign-in and authenticate players.\n\nSign-in players using any identity provider with Firebase Authentication. It supports email and password, phone authentication, Facebook, Google, Twitter, and more. Out-of-the-box, you get a secure, end-to-end identity solution.",
   "unity": "2017.1",
   "dependencies": {
-    "com.google.firebase.app": "7.2.0"
+    "com.google.firebase.app": "8.0.0"
   }
 }
