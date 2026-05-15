@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 09d62f7a909740e58f5ce4f5fb6ca165
+guid: 636e3441a21e435ba7544a26cd5d6d9c
 labels:
 - gvh
 - gvh_manifest
-- gvh_version-6.16.1
-- gvhp_exportpath-Firebase/Editor/FirebaseAuth_version-6.16.1_manifest.txt
+- gvh_version-7.0.0
+- gvhp_exportpath-Firebase/Editor/FirebaseAuth_version-7.0.0_manifest.txt
 - gvhp_manifestname-0Firebase Authentication
 - gvhp_manifestname-1FirebaseAuth
 timeCreated: 0
