@@ -4,19 +4,15 @@ FirebaseAuth iOS and Android Dependencies.
 -->
 
 <dependencies>
-  <remoteSwiftPackage url="https://github.com/firebase/firebase-ios-sdk.git" version="12.19.3">
-    <swiftPackage name="FirebaseAuth" replacesPod="Firebase/Auth"/>
+  <remoteSwiftPackage url="https://github.com/firebase/firebase-ios-sdk.git" version="13.1.1">
+    <swiftPackage name="FirebaseAuth"/>
   </remoteSwiftPackage>
-  <iosPods>
-    <iosPod name="Firebase/Auth" version="12.19.3" minTargetSdk="15.0">
-    </iosPod>
-  </iosPods>
   <androidPackages>
-    <androidPackage spec="com.google.firebase:firebase-auth:24.2.0">
+    <androidPackage spec="com.google.firebase:firebase-auth:25.0.0">
     </androidPackage>
-    <androidPackage spec="com.google.firebase:firebase-analytics:23.2.0">
+    <androidPackage spec="com.google.firebase:firebase-analytics:24.0.0">
     </androidPackage>
-    <androidPackage spec="com.google.firebase:firebase-auth-unity:13.17.1">
+    <androidPackage spec="com.google.firebase:firebase-auth-unity:14.1.0">
       <repositories>
         <repository>Assets/Firebase/m2repository</repository>
       </repositories>

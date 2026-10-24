@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: 255f60ef05484a71a135c57cce9d6fc7
+guid: 7de220810ff44421a5f2e0720570cc84
 labels:
 - gvh
-- gvh_version-13.17.1
-- gvhp_exportpath-Plugins/tvOS/Firebase/libFirebaseCppAuth.a
+- gvh_version-14.1.0
+- gvhp_exportpath-Plugins/tvOS/Firebase/libFirebaseCppAuth.xcframework
 timeCreated: 1480838400
 PluginImporter:
   serializedVersion: 1
